@@ -1,0 +1,9 @@
+router,
+i,you,we,they,he,she,it,my,your,her,his,him,their,them,me,our,us,its,ourselves,themselves,itself,
+be,is,am,do,does,did,was,were,has,have,had,will,would,can,could,should,
+a,an,t,d,ve,s,re,m,one,
+with,in,of,for,on,at,to,between,from,
+this,that,these,those,
+as,and,the,very,quite,totally
+now,then,
+just,really,thing,ever
